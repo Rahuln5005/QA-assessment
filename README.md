@@ -1,2 +1,2 @@
 # QA-assessment
-Pathology lab management web application
+Kindly go to master branch for the assessment result.
